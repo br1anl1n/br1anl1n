@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brian Lin</h1>
 <h3 align="center">I am a second year student at Harvard College studying computer science</h3>
 
+- 👨‍💻 All of my projects are available at [https://github.com/br1anl1n?tab=repositories](https://github.com/br1anl1n?tab=repositories)
+
 - 📫 How to reach me **brianlin@college.harvard.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AP1Ak3ZN_luWsrFFXAkvBGRMpFPFno59/view?usp=sharing](https://drive.google.com/file/d/1AP1Ak3ZN_luWsrFFXAkvBGRMpFPFno59/view?usp=sharing)
