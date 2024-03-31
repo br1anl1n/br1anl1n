@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **brianlin@college.harvard.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AP1Ak3ZN_luWsrFFXAkvBGRMpFPFno59/view?usp=sharing](https://drive.google.com/file/d/1AP1Ak3ZN_luWsrFFXAkvBGRMpFPFno59/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1jaNY-FNVQeHA2vqqJVRZqc6ja7JSjC4F/edit?usp=drive_link&ouid=106122738204631739148&rtpof=true&sd=true](url)
 
 - ⚡ Fun fact **Basketball is my favorite sport!**
 
