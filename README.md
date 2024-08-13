@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **brianlin@college.harvard.edu**
 
-- 📄 Know about my experiences **file:///Users/b-lin/Documents/LIN_BRIAN_RESUME.pdf**
+- 📄 Know about my experiences **[file:///Users/b-lin/Documents/LIN_BRIAN_RESUME.pdf](https://tinyurl.com/lin-brian-resume)**
 
 - ⚡ Fun fact **Basketball is my favorite sport!**
 
